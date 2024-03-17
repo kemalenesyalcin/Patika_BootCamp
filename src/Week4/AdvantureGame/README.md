@@ -1,1 +1,1 @@
-Maceranı oyunu hala bitmedi gelişim aşamasında 
+Maceranı oyunu hala bitmedi gelişim aşamasında. 
