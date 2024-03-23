@@ -105,7 +105,4 @@ public class Main {
         }
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------");
     }
-
-    // Diğer metotlar (ürün ekleme, güncelleme, silme vb.) buraya eklenebilir.
-
 }
